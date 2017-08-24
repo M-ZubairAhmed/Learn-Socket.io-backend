@@ -4,7 +4,12 @@
   "description": "Backend server for eg-socket.io & React - an introduction to web socket library \"socket.io\" with react",
   "author": "M-ZubairAhmed",
   "license": "MIT",
-  "keywords": ["Socket.io", "React", "Node", "Express"],
+  "keywords": [
+    "Socket.io",
+    "React",
+    "Node",
+    "Express"
+  ],
   "main": "server.js",
   "repository": {
     "type": "git",
