@@ -1,0 +1,25 @@
+{
+  "name": "quick-socketio-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Quick socket.io - an introduction to web socket library \"socket.io\" with react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-ZubairAhmed/eg-SocketIO-React-backend.git"
+  },
+  "keywords": [
+    "Socket.io",
+    "React",
+    "Node",
+    "Express"
+  ],
+  "author": "M-ZubairAhmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M-ZubairAhmed/eg-SocketIO-React-backend/issues"
+  },
+  "homepage": "https://github.com/M-ZubairAhmed/eg-SocketIO-React-backend#readme"
+}
